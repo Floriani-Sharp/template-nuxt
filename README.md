@@ -10,6 +10,14 @@ This Git project serves as a template for Nuxt 3 in conjunction with Vue.js. It 
 - **FontAwesome**: FontAwesome is a popular icon library that provides a variety of icons for different use cases.
 - **Jest**: Jest is a powerful test framework for JavaScript that provides features like test runners, assertions, and mocks to streamline the testing process.
 
+## Fork Project
+
+If you're interested in using this template with Headless UI integrated, you can check out my fork project:
+
+[template-nuxt-headless-ui](https://github.com/Floriani-Sharp/template-nuxt-headless.git)
+
+This fork is based on the original template and includes the integration of Headless UI for additional UI components.
+
 ## Usage
 
 1. clone the repository:
@@ -21,7 +29,7 @@ This Git project serves as a template for Nuxt 3 in conjunction with Vue.js. It 
 2. change to the project directory:
 
    ```bash
-   cd your-nuxt3-project
+   cd template-nuxt
    ```
 
 3. install the dependencies:
